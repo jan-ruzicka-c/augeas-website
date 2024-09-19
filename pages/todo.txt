@@ -42,5 +42,5 @@ much time, here are some very quick things that would help us tremendously:
   augeas should parse, you can report a bug as a wishlist, or comment on
   one that is already open about this file.
 
-.. _tickets in the bugtracker: https://fedorahosted.org/augeas/report/9
+.. _tickets in the bugtracker: ttps://github.com/hercules-team/augeas/issues
 .. _ticket in the bugtracker: https://github.com/hercules-team/augeas/issues
